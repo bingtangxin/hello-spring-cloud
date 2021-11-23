@@ -77,7 +77,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-netflix-hystrix-dashboard</artifactId>
-            <version>2.2.2.RELEASE</version>
+            <version>2.2.10.RELEASE</version>
         </dependency>
 
 <!--从云平台读取配置文件-->
